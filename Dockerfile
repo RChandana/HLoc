@@ -11,5 +11,5 @@ RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python${PYTH
 COPY . /app
 WORKDIR app/
 RUN pip3 install --upgrade pip
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r Requirements.txt
 RUN pip3 install notebook
