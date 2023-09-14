@@ -21,7 +21,7 @@ setup(
     description=description,
     long_description=readme,
     long_description_content_type="text/markdown",
-    url='https://github.com/HLoc/',
+    url='https://github.com/RChandana/HLoc/',
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: Apache Software License",
